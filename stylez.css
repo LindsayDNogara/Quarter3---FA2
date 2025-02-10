@@ -1,0 +1,13 @@
+* {
+    font-family: Monaco ;
+}
+
+input {
+    width: 65 px;
+    background-color: whitesmoke;
+    color: purple;
+    
+}
+button {
+    margin-top: 20px;
+}
